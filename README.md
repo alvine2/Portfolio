@@ -1,7 +1,7 @@
 ## Personal Portfolio
 
 
- Your portfolio is your resume and your business card.
+  a portfolio is your resume and your business card.
 
 
 Setup:
