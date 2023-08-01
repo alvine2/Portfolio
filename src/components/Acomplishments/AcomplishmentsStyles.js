@@ -1,4 +1,4 @@
-import styled from "styled-components"
+knowimport styled from "styled-components"
 
 export const Boxes = styled.div`
   width: 100%;
@@ -28,7 +28,7 @@ export const Box = styled.div`
   height: 144px;
   padding: 24px;
   @media ${props => props.theme.breakpoints.lg} {
-    height: 210px;
+    height: 310px;
 
   }
 
@@ -38,7 +38,7 @@ export const Box = styled.div`
   }
 
   @media ${props => props.theme.breakpoints.sm} {
-    height: 110px;
+    height: 310px;
     padding: 12px;
     
     &:nth-child(2n){
